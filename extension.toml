@@ -1,0 +1,11 @@
+id = "zmk"
+name = "ZMK / Devicetree"
+description = "Syntax highlighting for ZMK keymaps and Devicetree files (.keymap, .overlay, .dts, .dtsi, .dtso, .its)"
+version = "0.1.0"
+schema_version = 1
+authors = ["Dmitry Ovsianikov"]
+repository = "https://github.com/joelspadin/zmk-tools"
+
+[grammars.devicetree]
+repository = "https://github.com/joelspadin/tree-sitter-devicetree"
+rev = "e78bf56f206cb47bee28a217423acb651e076848"
