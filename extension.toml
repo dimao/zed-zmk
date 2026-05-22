@@ -3,7 +3,7 @@ name = "ZMK / Devicetree"
 description = "Syntax highlighting for ZMK keymaps and Devicetree files (.keymap, .overlay, .dts, .dtsi, .dtso, .its)"
 version = "0.1.0"
 schema_version = 1
-authors = ["Dmitry Ovsianikov"]
+authors = ["Dmitry Ovsianikov <dmitriy.ovsianikov@icloud.com>"]
 repository = "https://github.com/dimao/zed-zmk"
 
 [grammars.devicetree]
