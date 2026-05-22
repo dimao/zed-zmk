@@ -24,6 +24,12 @@ Until this is published to the Zed extension registry, install it locally:
 3. Run **`zed: install dev extension`**.
 4. Select this directory (`zed-zmk`).
 
+Or clone first:
+
+```bash
+git clone https://github.com/dimao/zed-zmk.git
+```
+
 Zed will clone the grammar, compile it with WASM, and register the language.
 Open any `.keymap` file in your `zmk-config` to see highlighting.
 

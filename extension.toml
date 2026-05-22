@@ -4,7 +4,7 @@ description = "Syntax highlighting for ZMK keymaps and Devicetree files (.keymap
 version = "0.1.0"
 schema_version = 1
 authors = ["Dmitry Ovsianikov"]
-repository = "https://github.com/joelspadin/zmk-tools"
+repository = "https://github.com/dimao/zed-zmk"
 
 [grammars.devicetree]
 repository = "https://github.com/joelspadin/tree-sitter-devicetree"
